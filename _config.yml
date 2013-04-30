@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Got Ruby?
-tagline: Site Tagline
+tagline: Chunky Bacon
 author :
   name : Kaz Walker
   email : kaz.walker@slipline.ca
